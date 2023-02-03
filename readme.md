@@ -20,8 +20,3 @@ git clone https://github.com/yuvraj108c/chatgpt-search-suggestions-extension.git
 
 ## Support
 
-Feel free to support the project if you enjoy it (https://paypal.me/yuvraj108c)
-
-## License
-
-MIT © [Yuvraj Seegolam](https://github.com/yuvraj108c)
